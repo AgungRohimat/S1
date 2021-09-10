@@ -1,0 +1,113 @@
+A.    RUMUS BANGUN DATAR 
+
+   a.     Persegi
+
+Rumus :
+         Keliling : 4 x s
+         Luas : s x s (s2)
+S = sisi
+
+   b.     Persegi panjang
+
+
+
+Rumus :
+         Keliling : 2 x (p+l)
+         Luas : p x l
+P= panjang
+L= lebar
+
+   c.      Segitiga
+
+
+Rumus :
+         Keliling : AB+BC+AC
+         Luas : ½  x a x t
+a = alas
+t= tinggi
+
+  d.     Jajargenjang
+
+
+
+Rumus :
+         Keliling: AB+BC+CD+AD
+         Luas: a x t
+a=alas
+t=tinggi
+
+  e.     Trapesium
+
+
+Rumus :
+         Keliling : AB+BC+CD+DA
+         Luas: ½ x jumlah sisi sejajar x tinggi
+
+   f.        Layang-layang
+
+
+Rumus:
+         Keliling: 2(AB+BC)
+         Luas: ½ x d1 x d2
+d = diagonal
+
+   g.     Belah ketupat
+
+
+
+Rumus :
+         Keliling : 4 x s
+         Luas: ½ x d1 x d2
+d = diagonal
+
+   B.    RUMUS BANGUN RUANG
+
+    a.     Kubus
+
+ Rumus:
+·         Luas permukaan: 6 x s2 =6s2
+·         Volume: s x s x s= s3
+
+    b.     Balok
+
+Rumus:
+·         Luas permukaan: 2{(p x l)+(p x t)+(l x t)}
+·         Volume: p x l x t
+    c.      Limas
+
+Rumus:
+·         Luas permukaan: La + jumlah luas segitiga pada bidang tegak
+·         Volume : 1/3 x La x t
+La=luas alas
+t= tinggi
+    d.     Prisma
+
+Rumus:
+·         Luas permukaan : (2 x La)+(K x t)
+·         Volume: La x t
+La= luas alas
+K= keliling alas
+t= tinggi
+   e.     Tabung
+Rumus:
+·         Luas permukaan: 2 π r (r+t)
+·         Luas selimut: 2 π r t
+·         Volume : π r2 t
+π= 22/7 atu 3,14
+r= jari-jari alas
+t= tinggi tabung
+   f.       Kerucut
+
+Rumus:
+·         Luas permukaan: π r (r+s)
+·         Luas selimut: π r s
+·         Volume: 1/3 π r2 t
+r= jari-jari lingkaran alas
+s= panjang garis pelukis kerucut
+t= tinggi kerucut
+   g.     Bola
+
+Rumus :
+·         Luas permukaan: 4 π r2
+·         Volume: 4/3 π r3
+r= jari-jari bola

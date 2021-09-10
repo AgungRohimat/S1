@@ -1,0 +1,20 @@
+[
+    {
+        "no":1,
+        "nama": "Rudi",
+        "jurusan": "Teknik Kendaraan Ringan Mobil"
+    
+    },
+    {
+        "no":2,
+        "nama":"indah",
+        "jurusan": "Rekayasa Perangkat Lunak"
+        
+    },
+    {
+        "no":3,
+        "nama":"Elika",
+        "jurusan": "Teknik Bisnis Sepeda Motor"
+       
+    }
+]
